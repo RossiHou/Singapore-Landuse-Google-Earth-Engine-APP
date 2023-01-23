@@ -12,4 +12,4 @@ The classification results are shown in the map panel. The map panel shows the c
 
 If you want to download the classification result, you can click "Export to Google Drive" (source code required) or click "download" to download directly to the local area (there is a possibility of failure).
 
-If you need the source code or query some details about the source code, please contact the developer.(E0950301@u.nus.edu) Or you can find it by watching the network traffic to your web browser.
+If you need the source code or query some details about the source code, please contact the developer(E0950301@u.nus.edu). Or you can find it by watching the network traffic to your web browser.
