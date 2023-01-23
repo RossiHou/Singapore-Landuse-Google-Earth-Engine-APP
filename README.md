@@ -2,7 +2,8 @@
 This is an app for the Singapore land use classification.
 https://houweitao3.users.earthengine.app/view/jfjfjfj
 
-![123123](https://user-images.githubusercontent.com/76504267/214066611-b66d30cb-2528-4b93-be40-9288bb857857.png)
+![图片](https://user-images.githubusercontent.com/76504267/214070041-728c7397-4a94-4e88-82df-179ffca2fe34.png)
+
 
 
 
