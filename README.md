@@ -1,4 +1,4 @@
-# Google-Earth-Engine-Landuse-APP
+# Google-Earth-Engine-Singapore-Landuse-APP
 This is an app for the Singapore land use classification.
 https://houweitao3.users.earthengine.app/view/jfjfjfj
 
