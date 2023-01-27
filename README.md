@@ -15,4 +15,4 @@ If you want to download the classification result, you can click "Export to Goog
 
 If you need the source code or query some details about the source code, please contact the developer(E0950301@u.nus.edu). Or you can find it by watching the network traffic to your web browser.
 
-The tool will derive and reduces the image collection by calculating the median of all values at each pixel across the stack of all matching bands between the selected dates.(The data is available after 2017-03-28)
+The tool will derive and reduces the Sentinel image collection by calculating the median of all values at each pixel across the stack of all matching bands between the selected dates(The data is available after 2017-03-28).
