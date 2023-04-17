@@ -7,7 +7,7 @@ https://houweitao3.users.earthengine.app/view/jfjfjfj
 
 
 
-This app is based on Sentinel(Level 2A) images combined with digital elevation data. Using MODIS Land Cover Type Yearly Global 500m as the training set (training area in Singapore and Kuala Lumpur, number of total points: 100000), using random forest (number of trees: 80) to classify land use in Singapore (30 meters pixel resolution). The overall classification accuracy is 0.77, and the kappa is 0.57.
+This app is based on Sentinel(Level 2A) images combined with digital elevation data. Using MODIS Land Cover Type Yearly Global 500m as the training set (training area in Singapore and Kuala Lumpur, number of total points: 100000), using random forest (number of trees: 80) to classify land use in Singapore (30 meters pixel resolution). The overall classification accuracy is 0.935, and the kappa is 0.857.
 
 The classification results are shown in the map panel. The map panel shows the chart relative variable importance of the result (click on the top left corner of the figure to see the complete information). Users can download the variable importance chart in .csv by clicking on the top-right of the plot.
 
